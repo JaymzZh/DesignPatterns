@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{4EF3A3A1-F4BA-4717-B98B-AB0C276EC6EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SimpleFactory", "SimpleFactory\1.SimpleFactory.csproj", "{4EF3A3A1-F4BA-4717-B98B-AB0C276EC6EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{29FD86F5-250A-4422-83D6-86C4B3A7BDE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Strategy", "Strategy\2.Strategy.csproj", "{29FD86F5-250A-4422-83D6-86C4B3A7BDE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
