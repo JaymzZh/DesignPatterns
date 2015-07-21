@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SimpleFactory", "SimpleFactory\1.SimpleFactory.csproj", "{4EF3A3A1-F4BA-4717-B98B-AB0C276EC6EE}"
 EndProject
@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Strategy", "Strategy\2.St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Decorator", "Decorator\3.Decorator.csproj", "{9BDBCE3E-DD20-4B35-A924-4AD4BDACCC7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{266A74FD-F54C-44BE-8E4C-17D76FF0A296}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Proxy", "Proxy\4.Proxy.csproj", "{266A74FD-F54C-44BE-8E4C-17D76FF0A296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.FactoryMethod", "FactoryMethod\5.FactoryMethod.csproj", "{F0C48D48-BB1B-4840-956F-29FFC0C3AE70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{266A74FD-F54C-44BE-8E4C-17D76FF0A296}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{266A74FD-F54C-44BE-8E4C-17D76FF0A296}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{266A74FD-F54C-44BE-8E4C-17D76FF0A296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C48D48-BB1B-4840-956F-29FFC0C3AE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C48D48-BB1B-4840-956F-29FFC0C3AE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C48D48-BB1B-4840-956F-29FFC0C3AE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C48D48-BB1B-4840-956F-29FFC0C3AE70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
