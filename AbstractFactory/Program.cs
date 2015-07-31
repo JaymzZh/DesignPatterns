@@ -5,13 +5,12 @@
         static void Main(string[] args)
         {
             User user = new User();
-            IFactory factory = new SqlserverFactory();
-            IUser iu = factory.CreateUser();
+            IUser iu = DataAccess.CreateUser();
             iu.Insert(user);
             iu.GetUser(1);
 
             Department dept = new Department();
-            IDepartment id = factory.CreateDepartment();
+            IDepartment id = DataAccess.CreateDepartment();
             id.Insert(dept);
             id.GetDepartment(1);
         }

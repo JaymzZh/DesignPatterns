@@ -33,20 +33,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccessDepartment.cs" />
-    <Compile Include="AccessFactory.cs" />
     <Compile Include="AccessUser.cs" />
+    <Compile Include="DataAccess.cs" />
     <Compile Include="Department.cs" />
     <Compile Include="IDepartment.cs" />
-    <Compile Include="IFactory.cs" />
     <Compile Include="IUser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlserverDepartment.cs" />
-    <Compile Include="SqlserverFactory.cs" />
     <Compile Include="SqlserverUser.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
