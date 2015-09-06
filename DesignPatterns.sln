@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Responsibility", "Respon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.Mediator", "Mediator\21.Mediator.csproj", "{B17FE3A1-163C-45E0-B527-D5DB0AE4A0FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Flyweight", "Flyweight\22.Flyweight.csproj", "{1361F544-BB33-442B-82C4-057394AD2ED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{B17FE3A1-163C-45E0-B527-D5DB0AE4A0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B17FE3A1-163C-45E0-B527-D5DB0AE4A0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B17FE3A1-163C-45E0-B527-D5DB0AE4A0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1361F544-BB33-442B-82C4-057394AD2ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1361F544-BB33-442B-82C4-057394AD2ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1361F544-BB33-442B-82C4-057394AD2ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1361F544-BB33-442B-82C4-057394AD2ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
