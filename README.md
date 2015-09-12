@@ -1,2 +1,2 @@
 # DesignPatterns
-this is the design patterns pratice
+this is the design patterns practice
