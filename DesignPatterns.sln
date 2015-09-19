@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Flyweight", "Flyweight\2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.Interpreter", "Interpreter\23.Interpreter.csproj", "{8524CA31-DA7C-4AFE-A9EF-762A6699F419}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.Visitor", "Visitor\24.Visitor.csproj", "{94DAEA64-AAF6-4D78-AD2C-8C3405BF7BDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{8524CA31-DA7C-4AFE-A9EF-762A6699F419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8524CA31-DA7C-4AFE-A9EF-762A6699F419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8524CA31-DA7C-4AFE-A9EF-762A6699F419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DAEA64-AAF6-4D78-AD2C-8C3405BF7BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DAEA64-AAF6-4D78-AD2C-8C3405BF7BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DAEA64-AAF6-4D78-AD2C-8C3405BF7BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DAEA64-AAF6-4D78-AD2C-8C3405BF7BDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
